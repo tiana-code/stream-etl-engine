@@ -1,6 +1,6 @@
 # stream-etl-engine – Streaming ETL & Violation Detection Pipeline
 
-A composable, stage-based streaming ETL framework with built-in violation detection, delta analysis, and data lake layer processing. Designed for compliance monitoring, data quality enforcement, and supply chain traceability.
+Stage-based streaming ETL framework with violation detection, delta analysis, and data lake layer processing. Java 21, Spring Boot 3.
 
 ## Use Cases
 
